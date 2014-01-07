@@ -1,6 +1,6 @@
 # Highstock-Rails
 
-Highstock lets you create stock or general timeline charts in pure JavaScript with sophisticated navigation options like a small navigator series, preset date ranges, date picker, scrolling, and panning. This gem includes Highstock as an asset in the Rails 3.1+ asset pipeline. Note: Highstock is not free for commercial use, so you'll need a valid license to use Highstock.
+[Highstock](http://www.highcharts.com/products/highstock) lets you create stock or general timeline charts in pure JavaScript with sophisticated navigation options like a small navigator series, preset date ranges, date picker, scrolling, and panning. This gem includes Highstock as an asset in the Rails 3.1+ asset pipeline. Note: Highstock is not free for commercial use, so you'll need a [valid license](http://shop.highsoft.com/highstock.html) to use Highstock.
 
 ## Installation
 
@@ -20,14 +20,14 @@ Or install it yourself as:
 
 In your JavaScript manifest (application.js):
 
-//= require highstock
-//= require highstock/highstock-more
+	//= require highstock
+	//= require highstock/highstock-more
 
-Refer to the Highstock documentation for more information.
+Refer to the [Highstock documentation](http://api.highcharts.com/highstock) for more information.
 
 ## Licensing
 
-Highstock has its own seperate licensing agreement.
+Highstock has its own seperate [licensing agreement](http://shop.highsoft.com/highstock.html).
 
 The highstock-rails gem is released under the MIT license.
 
