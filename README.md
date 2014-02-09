@@ -23,7 +23,7 @@ Or install it yourself as:
 In your JavaScript manifest (application.js):
 
 	//= require highstock
-	//= require highstock/highstock-more
+	//= require highstock/modules/highstock-more
 
 Refer to the [Highstock documentation](http://api.highcharts.com/highstock) for more information.
 
